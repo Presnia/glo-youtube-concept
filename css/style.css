@@ -323,4 +323,17 @@ body {
   object-fit: cover;
 }
 
+@media (max-width: 1440px) {
+  .sidebar {
+    width: 16vw;
+  }
+  .content {
+    width: 95.4vw;
+    margin-left: 4.6%;
+  }
+  .food-drink {
+    width: 61%;
+  }
+}
+
 
