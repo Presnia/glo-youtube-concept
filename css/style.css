@@ -303,3 +303,24 @@ body {
   line-height: 20px;
   cursor: pointer;
 }
+
+.channel-text-recommended {
+  margin-left: 0;
+}
+
+.video-card_recommended {
+  width: 540px;
+}
+
+.video-thumb_recommended {
+  width: 540px;
+  height: 250px;
+}
+
+.thumbnail_recommended {
+  width: 540px;
+  height: 250px;
+  object-fit: cover;
+}
+
+
