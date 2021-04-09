@@ -425,9 +425,9 @@ body {
   }
 }
 
-@media (max-width: 640px) {
-  .content {
-    width: 100%;
+@media (max-width: 320px) {
+  .food-subscribe-btn {
+    width: 99%;
   }
 }
 
